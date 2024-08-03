@@ -1,0 +1,4 @@
+.vscode/
+*.cgi
+*.a
+*.o
